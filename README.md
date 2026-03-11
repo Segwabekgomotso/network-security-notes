@@ -1,2 +1,7 @@
-# network-security-notes
-Notes and practical exercises on Network Security and Cybersecurity concepts, including Linux security, network scanning, and Python automation for security tasks.
+# Network Security Notes
+
+This repository contains notes and scripts from my studies in Network Security and Computer Forensics. 
+Topics include:
+- Linux security
+- Wireshark analysis
+- Python automation for cybersecurity
