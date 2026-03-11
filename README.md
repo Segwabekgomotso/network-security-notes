@@ -1,7 +1,9 @@
-# Network Security Notes
+# Hi, I'm Shannel 👋
+🎓 BSc Student in Network Security & Computer Forensics
 
-This repository contains notes and scripts from my studies in Network Security and Computer Forensics. 
-Topics include:
-- Linux security
-- Wireshark analysis
-- Python automation for cybersecurity
+💻 Skills:
+- Python, Linux, Networking
+- Cybersecurity & Digital Forensics
+
+🚀 Goals:
+Become a cybersecurity specialist and build tools to improve digital security
